@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sarthak Dubey</h1>
-<h3 align="center">A passionate frontend developer from India who also had tried Android development.</h3>
+<h3 align="center">A passionate frontend developer from India who had also tried his hands on Android development.</h3>
 
 <p align="left"> <a href="https://twitter.com/dubey0613" target="blank"><img src="https://img.shields.io/twitter/follow/dubey0613?logo=twitter&style=for-the-badge" alt="dubey0613" /></a> </p>
 

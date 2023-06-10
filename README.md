@@ -1,4 +1,4 @@
-<h1 align="center">Hi <div class="tenor-gif-embed" data-postid="19698939" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/shake-hand-gif-19698939">Shake Hand GIF</a>from <a href="https://tenor.com/search/shake+hand-gifs">Shake Hand GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>, I'm Sarthak Dubey</h1>
+<h1 align="center">Hi , I'm Sarthak Dubey</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 

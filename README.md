@@ -6,9 +6,9 @@
 
 - 👯 I’m looking to collaborate on **Various web development projects**
 
-- 💬 Ask me about **java, C and Frontend**
+- 💬 Ask me about **java, C and Web**
 
-- 📫 How to reach me **dubey.sarthak0613@gmail.com**
+- 📫 Reach me at **dubey.sarthak0613@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sarthak Dubey</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="center" src="https://github.com/dubey0613/dubey0613/blob/main/user%20(2).gif" width="500" > 
+<img align="center" padding-right="20" src="https://github.com/dubey0613/dubey0613/blob/main/user%20(2).gif" width="500" > 
 
 
 

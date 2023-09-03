@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sarthak Dubey</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate web developer from India</h3>
 
 <img align="center" src="https://github.com/dubey0613/dubey0613/blob/main/user%20(2).gif" width="500" > 
 
@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Various web development projects**
 
-- 💬 Ask me about **java, C and Web**
+- 💬 Ask me about **java, C/C++ and Web**
 
 - 📫 Reach me at **dubey.sarthak0613@gmail.com**
 

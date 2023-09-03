@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sarthak Dubey</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
-<p align="center">
   <img src="https://github.com/dubey0613/dubey0613/blob/main/user%20(2).gif" width="500" alt="Sarthak Dubey">
-</p>
 
 - 👯 I’m looking to collaborate on **Various web development projects**
 - 🌱 I’m currently learning **Web development and Cloud Computing**

@@ -49,7 +49,7 @@
 <h3 align="left">Stats</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dubey0613&layout=compact&theme=dark" alt=dubey0613 />
 
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=dubey0613&theme=dark" alt="dubey0613" /></p>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
